@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🌱 I’m currently an L-plate web dev, just finding my my feet and getting my head around this git bizzo.
+
+My pronouns: she/her
+
+
 <!--
 **jazzicoda/jazzicoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
