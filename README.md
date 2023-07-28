@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🌱 I’m currently an L-plate web dev, just finding my my feet <br>
-📍 I’m currently learning Ruby  
+📍 I’m currently learning JS  
 My pronouns: she/her
 
 
