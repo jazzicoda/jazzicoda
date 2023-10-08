@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![An image of @jazzicoda's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jazzicoda)](https://holopin.io/@jazzicoda)
+
 🌱 I’m currently an L-plate web dev, just finding my my feet <br>
 📍 I’m currently learning JS  
 My pronouns: she/her
